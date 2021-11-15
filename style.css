@@ -35,6 +35,7 @@
 .container .card {
   padding: 40px;
   width: 250px;
+  height: 400px;
 }
 
 .container .card .icon {
@@ -113,6 +114,7 @@
 
   .container .card {
     width: 90%;
+    height:fit-content;
   }
 
   .container .card .btn {
